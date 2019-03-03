@@ -11,6 +11,7 @@ import java.util.Scanner;
  *
  * @author tnkchozen
  * Systems Analyst - Winter 2019
+ * QP
  */
 public class PasswordValidator {
     
