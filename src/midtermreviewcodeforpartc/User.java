@@ -10,6 +10,7 @@ package midtermreviewcodeforpartc;
  * The user has a name and a password.
  * @author dancye, 2019
  * @author tnkchozen, 2019
+ * Course - Software Design Winter 2019
  */
 public class User 
 {
