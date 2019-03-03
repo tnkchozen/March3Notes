@@ -14,6 +14,7 @@ import java.util.Scanner;
  * of possible users. To be used as the beginning code for MidtermReview C.
  * @author dancye, 2019
  * @author tnkchozen, 2019
+ * Course - Software Design Winter 2019
  */
 public class UnoOnline 
 {
