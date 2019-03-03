@@ -11,6 +11,7 @@ package midtermreviewcodeforpartc;
  * @author dancye, 2019
  * @author tnkchozen, 2019
  * Course - Software Design Winter 2019
+ * Program - Systems Analyst
  */
 public class User 
 {
